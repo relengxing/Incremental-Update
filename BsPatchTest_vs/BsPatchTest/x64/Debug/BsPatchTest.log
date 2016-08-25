@@ -1,0 +1,16 @@
+﻿  randtable.c
+  huffman.c
+  decompress.c
+  crctable.c
+  compress.c
+d:\workspace\visualstudioworkspace\bspatchtest\bspatchtest\compress.c(205): warning C4244: “=”: 从“__int64”转换到“Int32”，可能丢失数据
+  bzlib.c
+d:\workspace\visualstudioworkspace\bspatchtest\bspatchtest\bzlib.c(996): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+d:\workspace\visualstudioworkspace\bspatchtest\bspatchtest\bzlib.c(1055): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+d:\workspace\visualstudioworkspace\bspatchtest\bspatchtest\bzlib.c(1190): warning C4267: “=”: 从“size_t”转换到“Int32”，可能丢失数据
+  blocksort.c
+  正在生成代码...
+  bspatch.cpp
+    正在创建库 D:\WorkSpace\VisualStudioWorkSpace\BsPatchTest\x64\Debug\BsPatchTest.lib 和对象 D:\WorkSpace\VisualStudioWorkSpace\BsPatchTest\x64\Debug\BsPatchTest.exp
+  BsPatchTest.vcxproj -> D:\WorkSpace\VisualStudioWorkSpace\BsPatchTest\x64\Debug\BsPatchTest.dll
+  BsPatchTest.vcxproj -> D:\WorkSpace\VisualStudioWorkSpace\BsPatchTest\x64\Debug\BsPatchTest.pdb (Partial PDB)
